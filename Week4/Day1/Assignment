@@ -10,7 +10,7 @@
 
 ## 📚 Reference Code
 
-**Repository:** https://github.com/devopswithakhilesh/Jan26-devops-bootcamp/tree/main/week3/day1
+**Repository:** https://github.com/
 
 Clone this code and deploy using ASG + ALB.
 
@@ -43,7 +43,7 @@ Domain → Route 53 → ALB → Target Group → ASG → EC2 Instances
 ### Step 1: Clone Reference Code
 
 ```bash
-git clone https://github.com/devopswithakhilesh/Jan26-devops-bootcamp.git
+git clone https://github.com/
 cd Jan26-devops-bootcamp/week3/day1
 ```
 
@@ -63,7 +63,7 @@ sudo yum install git -y
 
 # Clone repository
 cd /home/ec2-user
-git clone https://github.com/devopswithakhilesh/Jan26-devops-bootcamp.git
+git clone https://github.com/Kavya-devan/Jan26-devops-bootcamp.git
 
 # Navigate to app directory
 cd Jan26-devops-bootcamp/week3/day1/app
